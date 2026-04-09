@@ -76,7 +76,7 @@ function SetList({ sets, onSelect, onDelete, onCreateNew, onStudy }) {
       </ListGroup>
 
       {/* Analysis Modal */}
-      <Modal show={showAnalysis} onHide={() => setShowAnalysis(false)} centered>
+      <Modal show={showAnalysis} onHide={() => setShowAnalysis(false)} centered scrollable>
         <Modal.Header closeButton>
           <Modal.Title>📊 {analysisSet?.name} — Analysis</Modal.Title>
         </Modal.Header>

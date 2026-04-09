@@ -7,13 +7,13 @@ A web app for creating flashcard sets with progressive review modes and session 
 ## Demo
 
 ### Create Card Set
-![Create Cards](https://via.placeholder.com/800x450/e9ecef/495057?text=Create+Card+Set+—+Add+Q%26A+cards)
+![Create Cards](img/1.png)
 
 ### Review Cards
-![Review Cards](https://via.placeholder.com/800x450/e9ecef/495057?text=Review+Cards+—+Flip+%7C+Choose+%7C+Type)
+![Review Cards](img/2.png)
 
 ### Session Analytics
-![Analytics](https://via.placeholder.com/800x450/e9ecef/495057?text=Session+Analytics+—+History+%26+Progress)
+![Analytics](img/3.png, img/4.png)
 
 ---
 
