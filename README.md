@@ -13,7 +13,8 @@ A web app for creating flashcard sets with progressive review modes and session 
 ![Review Cards](img/2.png)
 
 ### Session Analytics
-![Analytics](img/3.png, img/4.png)
+![Analytics](img/3.png)
+img/4.png
 
 ---
 
